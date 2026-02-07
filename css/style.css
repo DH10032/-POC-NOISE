@@ -8,3 +8,11 @@ table, td {
     margin: 0 auto;
     width: 1700px;  /* 너비 필수 */
 }
+
+.target-1 {
+    color : #e2703a;
+}
+
+.target-2 {
+    color : #3a6351;
+}
