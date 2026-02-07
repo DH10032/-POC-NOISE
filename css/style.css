@@ -1,1 +1,10 @@
+table, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+}
 
+.board-grid, .card-board {
+    margin: 0 auto;
+    width: 1700px;  /* 너비 필수 */
+}
